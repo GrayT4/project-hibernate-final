@@ -5,6 +5,6 @@
 * Для запуска проекта необходимо развернуть дамп-файл [dump-hibernate-final.sql](./src/main/resources/dump-hibernate-final.sql) 
 на своей локальной машине.
 
-## Results project
+## Project results
 
 ![screenshot](./src/main/resources/result-project.png?raw=true)
